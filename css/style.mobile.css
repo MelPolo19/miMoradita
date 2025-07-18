@@ -180,13 +180,13 @@ body {
 /* Responsivo para móviles: la caja ocupa casi todo el ancho arriba del árbol */
 @media (max-width: 700px) {
   .dedication-text {
-    left: 50%;
+    left: 60%;
     right: auto;
     top: 8%;
     transform: translateX(-50%) translateY(0);
     min-width: 0;
-    max-width: 95vw;
-    width: 95vw;
+    max-width: 98vw;
+    width: 98vw;
     font-size: 1.1rem;
     padding: 0.7em 0.7em 0.7em 0.7em;
   }
