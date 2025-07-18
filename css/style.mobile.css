@@ -189,6 +189,10 @@ body {
     width: 98vw;
     font-size: 1.1rem;
     padding: 0.7em 0.7em 0.7em 0.7em;
+    height: auto;
+    max-height: none;
+    overflow: visible;
+    box-sizing: border-box;
   }
   .signature {
     font-size: 1.3rem;
